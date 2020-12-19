@@ -76,9 +76,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 1020,
     "timeMonth": 1132,
     "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-19": 0
+    }
   }
 ]
