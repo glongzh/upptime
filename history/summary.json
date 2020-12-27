@@ -22,18 +22,20 @@
     "url": "https://pygod.me",
     "icon": "https://favicons.githubusercontent.com/pygod.me",
     "slug": "pygod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 290,
-    "timeWeek": 312,
-    "timeMonth": 369,
-    "timeYear": 369,
-    "dailyMinutesDown": {}
+    "time": 367,
+    "timeDay": 310,
+    "timeWeek": 314,
+    "timeMonth": 367,
+    "timeYear": 367,
+    "dailyMinutesDown": {
+      "2020-12-27": 0
+    }
   },
   {
     "name": "Hacker News",
